@@ -1,0 +1,13 @@
+body {
+  background: #323232; /* try type yellow */
+  color: white;
+
+  margin: 0;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-family: Helvetica neue, roboto;
+}
